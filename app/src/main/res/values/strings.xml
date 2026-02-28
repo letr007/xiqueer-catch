@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">喜鹊儿课表导出</string>
+    <string name="start_capture">开始抓取</string>
+    <string name="stop_capture">停止抓取</string>
+    <string name="refresh_data">刷新列表</string>
+    <string name="clear_data">清空数据</string>
+    <string name="export_csv">导出 CSV</string>
+    <string name="open_logs">查看日志</string>
+    <string name="how_to_use">如何使用</string>
+    <string name="log_clear">清空</string>
+    <string name="log_copy">复制</string>
+    <string name="log_close">关闭</string>
+    <string name="status_idle">状态：未运行</string>
+    <string name="no_snapshot">暂无抓取数据</string>
+    <string name="usage_guide_title">使用教程</string>
+    <string name="usage_guide_content">1. 先打开喜鹊儿，再打开本软件。\n2. 点击“开始抓取”。\n3. 回到喜鹊儿，进入“设置 -> 清除缓存”，清除旧课表数据。\n4. 进入课表页面，切换到要导出的学期。\n5. 从第 1 周开始，逐周刷新到最后一周。\n6. 回到本软件，在列表勾选需要导出的周次。\n7. 点击“导出 CSV”，即可导入 WakeUp 课程表。\n\n网络提示：本工具依赖 IPv4 抓取。请优先使用 Wi-Fi / IPv4 网络，避免在 IPv6-only 网络下使用。</string>
+</resources>
