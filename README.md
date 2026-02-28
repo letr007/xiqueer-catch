@@ -2,6 +2,8 @@
 
 Android tool for capturing Xiqueer schedule data and exporting CSV that can be imported into WakeUp timetable.
 
+Language: English | [简体中文](README.zh-CN.md)
+
 ## Features
 
 - Capture timetable API responses through local VPN interception
@@ -43,6 +45,7 @@ On Windows PowerShell:
 ## Release APK
 
 - Current packaged APK path: `app/release/喜鹊儿课表导出.apk`
+- GitHub release asset naming recommendation: `xiqueer-catch-v<version>.apk`
 - GitHub release assets can be uploaded from this file directly.
 
 If you have `apksigner`, you can verify signature locally:
