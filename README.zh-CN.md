@@ -42,18 +42,3 @@ Windows PowerShell:
 5. 回到本应用，勾选要导出的快照。
 6. 点击 `Export CSV`，将结果导入 WakeUp 课程表。
 
-## Release APK
-
-- 当前打包 APK 路径：`app/release/喜鹊儿课表导出.apk`
-- GitHub Release 资产推荐命名：`xiqueer-catch-v<version>.apk`
-- 可直接使用上述文件上传到 GitHub Release
-
-如本机有 `apksigner`，可本地校验签名：
-
-```bash
-apksigner verify --print-certs "app/release/喜鹊儿课表导出.apk"
-```
-
-## 仓库地址
-
-- GitHub: https://github.com/letr007/xiqueer-catch

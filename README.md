@@ -41,19 +41,3 @@ On Windows PowerShell:
 4. Switch to target semester, refresh week by week.
 5. Return to this app and select snapshots.
 6. Tap `Export CSV` and import into WakeUp timetable.
-
-## Release APK
-
-- Current packaged APK path: `app/release/喜鹊儿课表导出.apk`
-- GitHub release asset naming recommendation: `xiqueer-catch-v<version>.apk`
-- GitHub release assets can be uploaded from this file directly.
-
-If you have `apksigner`, you can verify signature locally:
-
-```bash
-apksigner verify --print-certs "app/release/喜鹊儿课表导出.apk"
-```
-
-## Repository
-
-- GitHub: https://github.com/letr007/xiqueer-catch
